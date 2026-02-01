@@ -1,2 +1,5 @@
 .jekyll-cache
 _drafts
+Gemfile
+Gemfile.lock
+_site
