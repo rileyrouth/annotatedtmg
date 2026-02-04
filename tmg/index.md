@@ -14,21 +14,19 @@ info:       Front page for the Annotated Mountain Goats
 
 Welcome!
 
-This is a comprehesive, verifiable, and referenced guide to the first 25 years
-of the music of the Mountain Goats. The site covers the boombox, early studio,
-biographical, and later studio eras of the band. This period, lasting from
-approximately 1992 to 2017, contains a massive corpus of staggering
-complexity, range, and humanity. With few exceptions, this site does not
-include releases after 2017.
+This is a comprehesive, verifiable, and referenced guide to the 
+music of the Mountain Goats. The site covers the boombox, early
+studio, biographical, and later studio eras of the band. The
+work of the Mountain Goats contains a massive corpus of staggering
+complexity, range, and humanity.
 
 Pick the release you're looking for. In the below tables, links indicate
 annotations. Links *in italics* are incomplete: those prefixed with a dash (-)
 contain lyrics but have yet to be annotated; those prefixed with a plus (+)
 instead need transcription as well.
 
-The Annotated Mountain Goats is presently in an archival state, and is edited
-only intermittently. It is likely permanently incomplete. Nonetheless, I love
-hearing from you. Please feel free to [reach out](about.html#contact)!
+The Annotated Mountain Goats is a community project, and anybody
+can [contribute](/about#contributing).
 
 To subscribe to updates, infrequent as they are, use [the RSS feed](tmg-rss.xml).
 
@@ -74,12 +72,12 @@ commentaries and details about obscure references can all be found inside.
 
 Many of the references are from comments John has made at live shows. If these
 are reported, it's always from a recording so it can be verified. All of these
-are available online, in the [forums][], or elsewhere. If you can't find the
+are available online, usually as part of the [live music archive][lma], or elsewhere. If you can't find the
 source and you'd like to confirm a quote, feel free to shoot me a line.
 Similarly, in the live show directory, the only tapes listed are those whose
 existence I've been able to personally verify.
 
-[forums]:   http://www.mountain-goats.com/forums/
+[lma]:   https://archive.org/details/MountainGoats
 
 Much excellent banter and some references are left unannotated. The goal of
 this website is to help discover and understand the Mountain Goats as opposed
@@ -95,53 +93,53 @@ overanalyzing and avoid dogma as you use these annotations.
 
 [parsing]: http://johndarnielle.tumblr.com/post/55954481765/would-you-care-to-comment-on-the-minor-changes-between
 
-This website focuses on the first 25 years of the Mountain Goats due to my
-intense love of the music from this period and to define borders on this
-massive project to make it feasible. One of the delightful things about the
-Mountain Goats is that they have no hard rules and incredible stylistic range,
-from solo folk punk boombox recordings to highly produced and sophisticated
-orchestration with numerous musicians. Although their releases after 2017 are,
-to my ear, distinct in many ways from their early material, this is clearly
-gradual, and there is not a hard boundary. Who knows? The earlier style may
-even someday return, as we saw with [Songs for Pierre Chuvin][chuvin].
-
-[chuvin]: https://themountaingoats.bandcamp.com/album/songs-for-pierre-chuvin
+The original incarnation of this website focused predominantly on the first
+quarter-century of the Mountain Goats, up to 2017. As a consequence, albums
+from that date on are significantly under-annotated. Pardon our dust while
+we work on this, and consider [contributing](/about#contributing) if you can.
 
 ## Buttons ## {#buttons}
 
-Once upon a time, I made buttons for each Mountain Goats tour and passed them
-out at shows and through the mail. They were 100% free; I made them with my
-button maker. A fellow DIY fan has been making stickers and those are
-viewable here as well.
+Once upon a time, our original founder made buttons for each Mountain Goats
+tour and passed them out at shows and through the mail. They were 100% free;
+they made them with their button maker. A fellow DIY fan has been making
+stickers and those are viewable here as well.
 
 To see the designs, [see here!](buttons.html)
 
 ## Albums ## {#albums}
 
-|-------------------------------------------+------+-------------+----------|
-| __Title__                               | __Year__ | __Label__ | __Format__ |
-|:------------------------------------------+:-----+:------------+:---------|
-| - [*Beat the Champ*](champ.html)            | 2015 | Merge       | CD/double 12" 45 rpm |
-| [*Transcendental Youth*](youth.html)      | 2012 | Merge       | CD/LP    |
-| [All Eternals Deck](aed.html)             | 2011 | Merge       | CD/LP    |
-| [The Life of the World to Come](tlotwtc.html) | 2009 | 4AD     | CD/LP    |
-| [Heretic Pride](heretic.html)             | 2008 | 4AD         | CD/LP    |
-| [Get Lonely](lonely.html)                 | 2006 | 4AD         | CD/LP    |
-| [The Sunset Tree](sunset.html)            | 2005 | 4AD         | CD/LP    |
-| [We Shall All Be Healed](wsabh.html)      | 2004 | 4AD         | CD/LP    |
-| [Tallahassee](tallahassee.html)           | 2002 | 4AD         | CD/LP    |
-| [All Hail West Texas](ahwt.html)          | 2002; 2013 | Emperor Jones; Merge | CD; CD/LP |
-| [The Coroner's Gambit](coroner.html)      | 2000 | Absolutely Kosher | CD/LP |
-| [Full Force Galesburg](galesburg.html)    | 1997 | Emperor Jones | CD/LP  |
-| [Nothing for Juice](nfj.html)             | 1996 | Ajax        | CD/LP/promo cassette|
-| [Sweden](sweden.html)                     | 1995 | Shrimper    | CD/LP    |
-| [Zopilote Machine](zopilote.html)         | 1994; 2005 | Ajax; 3 Beads of Sweat | CD/LP |
-| [Yam, the King of Crops](yam.html)        | 1994 | Oska        | cassette |
-| [Taking the Dative](dative.html)          | 1994 | Car in Car Disco Product | cassette |
-| - [*Hot Garden Stomp*](stomp.html)          | 1993 | Shrimper    | cassette |
-| [Transmissions to Horace](horace.html)    | 1993 | Sonic Enemy | cassette |
-| [The Hound Chronicles](hound.html)        | 1992 | Shrimper    | cassette |
-| [Taboo VI: The Homecoming](taboo.html)    | 1992 | Shrimper    | cassette |
+|:--------------------------------------------------------------+:-----+:------------+:---------|
+| __Title__                                                     | __Year__ | __Label__ | __Format__ |
+|:--------------------------------------------------------------+:-----+:------------+:---------|
+| + *Through This Fire Across from Peter Balkan*                        | 2025 | Cadmean Dawn | CD/double 12" 45 rpm |
+| + *Jenny from Thebes*                                       | 2023 | Merge       | CD/double 12" 45 rpm |
+| + *Bleed Out*                                         | 2022 | Merge       | CD/double 12" 45 rpm |
+| + *Dark in Here*                                      | 2021 | Merge       | CD/double 12" 45 rpm |
+| + *Getting Into Knives*                                      | 2020 | Merge       | CD/double 12" 45 rpm |
+| + *In League with Dragons*                                        | 2019 | Merge       | CD/double 12" 45 rpm |
+| [Goths](goths.html)                                           | 2017 | Merge       | CD/double 12" 45 rpm |
+| [Beat the Champ](champ.html)                              | 2015 | Merge       | CD/double 12" 45 rpm |
+| [Transcendental Youth](youth.html)                          | 2012 | Merge       | CD/LP    |
+| [All Eternals Deck](aed.html)                                 | 2011 | Merge       | CD/LP    |
+| [The Life of the World to Come](tlotwtc.html)                 | 2009 | 4AD         | CD/LP    |
+| [Heretic Pride](heretic.html)                                 | 2008 | 4AD         | CD/LP    |
+| [Get Lonely](lonely.html)                                     | 2006 | 4AD         | CD/LP    |
+| [The Sunset Tree](sunset.html)                                | 2005 | 4AD         | CD/LP    |
+| [We Shall All Be Healed](wsabh.html)                          | 2004 | 4AD         | CD/LP    |
+| [Tallahassee](tallahassee.html)                               | 2002 | 4AD         | CD/LP    |
+| [All Hail West Texas](ahwt.html)                              | 2002; 2013 | Emperor Jones; Merge | CD; CD/LP |
+| [The Coroner's Gambit](coroner.html)                          | 2000 | Absolutely Kosher | CD/LP |
+| [Full Force Galesburg](galesburg.html)                        | 1997 | Emperor Jones | CD/LP  |
+| [Nothing for Juice](nfj.html)                                 | 1996 | Ajax        | CD/LP/promo cassette|
+| [Sweden](sweden.html)                                         | 1995 | Shrimper    | CD/LP    |
+| [Zopilote Machine](zopilote.html)                             | 1994; 2005 | Ajax; 3 Beads of Sweat | CD/LP |
+| [Yam, the King of Crops](yam.html)                            | 1994 | Oska        | cassette |
+| [Taking the Dative](dative.html)                              | 1994 | Car in Car Disco Product | cassette |
+| - [*Hot Garden Stomp*](stomp.html)                            | 1993 | Shrimper    | cassette |
+| [Transmissions to Horace](horace.html)                        | 1993 | Sonic Enemy | cassette |
+| [The Hound Chronicles](hound.html)                            | 1992 | Shrimper    | cassette |
+| [Taboo VI: The Homecoming](taboo.html)                        | 1992 | Shrimper    | cassette |
 |-------------------------------------------+------+-------------+----------|
 
 Several albums have additional foreign issues [containing
@@ -187,6 +185,7 @@ format.
 |-------------------------------+------+----------------+-------------------|
 | __Title__                   | __Year__ | __Label__    | __Format__        |
 |:------------------------------+:-----+:---------------+:------------------|
+| [Going to Fennario](fennario.html) | 2026 | Cadmean Dawn | digital
 | [Dilaudid](dilaudid.html)     | 2005 | 4AD            | digital           |
 | [Letter from Belgium](belgium.html) | 2004 | 4AD      | 7"/CD             |
 | [Palmcorder Yajna](yajna.html) | 2003 | 4AD           | 7"/CD             |
@@ -391,17 +390,18 @@ music, and for inspiring this website. Thanks for paving the way.
 
 Many people have offered information, discussion, feedback, criticism, advice,
 corrections, and rare praise regarding the contents of this site. Particularly
-I would like to thank the denizens of the [Mountain Goats forums][forums] for
+I would like to thank the denizens of the erstwhile Mountain Goats forums] for
 much discussion and analysis helping me to find more information, the
 [Mountain Goats subreddit][reddit] for similar reasons, and commenters on many
 websites (particularly on [Songmeanings][]) for helping me track down obscure
 references. Of these people, four in particular stand out: Thomas Fidler, also
-known as [Drumhax][], [Riley Routh][riley], who spontaneously drafted entire
-pages about albums and spurred me to write more, [Wil Hall][wil], who
-transcribed entire albums' worth of lyrics, and Stephen Plummer, a frequent
-chatter on [#themountaingoats][irc], whose impeccable memory and knowledge of
-live material corrected many errors in the live show directory. Thank you all!
-You have made this website so much better.
+known as [Drumhax][], [Wil Hall][wil], who transcribed entire albums' worth of
+lyrics, and Stephen Plummer, a frequent chatter on [#themountaingoats][irc],
+whose impeccable memory and knowledge of live material corrected many errors
+in the live show directory. Thank you all! You have made this website so much better.
+
+This website's original creator prefers to remain ephemeral, but it is dedicated
+to them. I'm [Riley Routh][riley].
 
 I was inspired to make this website in part because of other annotations that
 helped me fall more deeply in love with music and literature that kept me
@@ -513,8 +513,6 @@ Firefox][firefox-ext]!
         and boxing, alongside some forums.
 * [Jon Nall's excellent lyrics website][nall] and the oldest Mountain Goats
         fan site.
-* [The Mountain Goats forums][forums], formerly the main Mountain Goats
-        community.
 * [The Mountain Goats Wiki][wiki], an openly-editable archival project
 * [Reddit's Mountain Goats forum][reddit], another active fan community.
 * [Sad Young Cardinals][syc], essays about the Mountain Goats

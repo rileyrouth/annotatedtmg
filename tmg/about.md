@@ -50,17 +50,10 @@ help.
 
 # Contributing #
 
-The Annotated Mountain Goats is presently in an archival state. Further edits
-are likely to be sporadic at best, although the future is always uncertain.
-You are welcome to take from this work in your own Mountain Goats projects.
-Please consider crediting the Annotated Mountain Goats by linking back to the
-site.
-
-A former guide for contributing, as well as all of the source code, is
-available in the [git repository][repo]. This hopefully makes it easier to
-navigate if you choose to borrow from the site. You are welcome to reach out
-to me using the contact information above if you have questions or just want
-to talk.
+You can help improve the Annotated Mountain Goats by contributing to the
+[git repository][repo]. You can also find there a guide for how best to
+start contributing You are welcome to reach out to me using the contact
+information above if you have questions or just want to talk.
 
 If you're curious about what is incomplete, a number of albums need lyrics and
 annotations. You can see which ones these are by looking at the [discography
@@ -68,4 +61,4 @@ on the front page](index.html). Links *in italics* are incomplete: those
 prefixed with a dash (-) contain lyrics but have yet to be annotated; those
 prefixed with a plus (+) instead need transcription as well.
 
-[repo]: https://github.com/annotatedtmg/annotatedtmg
+[repo]: https://github.com/rileyrouth/annotatedtmg
