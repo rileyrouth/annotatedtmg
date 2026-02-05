@@ -1,7 +1,6 @@
 # Site settings
 url:            https://annotatedtmg.org
 timezone:       America/Toronto
-destination:    ../site
 excerpt:        none
 # incremental:    true    # disable when changing files in _data and when updating
 #                         # pages with for loops, or add 'regenerate: true' to
